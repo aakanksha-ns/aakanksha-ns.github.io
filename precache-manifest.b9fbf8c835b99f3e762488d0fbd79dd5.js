@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "dc8187a7777b89f509b46a473f928124",
+    "revision": "75ee335cb5905ff8957d294c9228c588",
     "url": "/index.html"
   },
   {
-    "revision": "50cde6a8625d43b72c93",
+    "revision": "30609e05b4d0fd33920e",
     "url": "/static/css/main.5b4df744.chunk.css"
   },
   {
-    "revision": "8c4265f10de7e89f9fe8",
-    "url": "/static/js/2.be5d85be.chunk.js"
+    "revision": "318463b567f22e25f066",
+    "url": "/static/js/2.fa59ff9d.chunk.js"
   },
   {
-    "revision": "50cde6a8625d43b72c93",
-    "url": "/static/js/main.b8a23458.chunk.js"
+    "revision": "30609e05b4d0fd33920e",
+    "url": "/static/js/main.f104a623.chunk.js"
   },
   {
     "revision": "bb2cce2dcf1d2668ef10",
@@ -34,6 +34,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "6395ad5df0cd5cd0445acefdcbf33e8a",
     "url": "/static/media/bg-xs.6395ad5d.jpg"
+  },
+  {
+    "revision": "51db2031523e36d4c47d663b94398da3",
+    "url": "/static/media/book_store.51db2031.jpg"
   },
   {
     "revision": "47fb6ff9d160d882a0f334fec6dd6ed0",
@@ -68,6 +72,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/drumKit.d29a2a1d.png"
   },
   {
+    "revision": "4ce43e45a0f392d4fbaa98b4778ce7e8",
+    "url": "/static/media/factnews.4ce43e45.png"
+  },
+  {
     "revision": "87dc0ec6e48c4f6e53373e4c007a49a7",
     "url": "/static/media/flexes.87dc0ec6.png"
   },
@@ -86,6 +94,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "d7c68312a08c3b3658d40b9c48740b2b",
     "url": "/static/media/har.d7c68312.jpg"
+  },
+  {
+    "revision": "9d5da46573bea4718e3302a7c7e2160d",
+    "url": "/static/media/item_rating.9d5da465.png"
   },
   {
     "revision": "288c8e43ae34877acaacde1d8d1552c9",
